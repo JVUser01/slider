@@ -4,7 +4,7 @@ Slider de site
 
 # :clipboard: Tabela de conteúdos
 
-* [Demonstação do site](#mag-Demonstração-do-site)
+* [Demonstração do site](#mag-Demonstração-do-site)
 * [Tecnologias](#computer-Tecnologias)
 * [Licensa](#page_facing_up-Licensa)
 
