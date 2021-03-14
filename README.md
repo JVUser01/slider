@@ -2,15 +2,17 @@
 
 Slider de site
 
-# :clipboard: Tabela de conteúdos
+# Tabela de conteúdos
 
-* [Demonstração do site](#mag-Demonstração-do-site)
+* [Demonstração do site](#gear-Demonstração-do-site)
 * [Tecnologias](#computer-Tecnologias)
 * [Licensa](#page_facing_up-Licensa)
 
-# :mag: Demonstração do site
+# :gear: Demonstração do site
 
-<div style="display: flex;">
+Acesse o site aqui: https://jvuser01.github.io/slider/
+
+<div>
     <img src="screenshots/screenshot 1.png" alt="Screenshot" width="350px"/>
     <img src="screenshots/screenshot 2.png" alt="Screenshot" width="350px"/>
     <img src="screenshots/screenshot 3.png" alt="Screenshot" width="350px"/>
